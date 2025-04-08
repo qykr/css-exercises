@@ -24,3 +24,27 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* ATTEMPT */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin: 10px 0 32px;
+}
+
+.plants {
+  display: flex;
+  gap: 52px;
+  margin: 20px;
+}
+
+.card {
+  max-width: 200px;
+}
